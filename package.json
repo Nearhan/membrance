@@ -1,0 +1,28 @@
+{
+  "name": "membrane",
+  "version": "1.0.0",
+  "description": "Logical Log Wrapper for Neo4j",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nearhan/membrance.git"
+  },
+  "keywords": [
+    "Neo4j",
+    "ElasticSearch",
+    "Logs"
+  ],
+  "author": "Farhan Syed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nearhan/membrance/issues"
+  },
+  "homepage": "https://github.com/Nearhan/membrance",
+  "dependencies": {
+    "elasticsearch": "^2.4.3",
+    "neo4j": "^1.1.1"
+  }
+}
